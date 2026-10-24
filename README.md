@@ -14,7 +14,7 @@ I build the software clinics and hospitals actually use, because I've worked on 
 | Project | What it does | Stack |
 |---|---|---|
 | **Clinic WorkFlow (CWF)** | Bilingual multi-clinic management system: roles, patient files, appointments, visits, lab requests, automatic invoicing, AI conversation analysis (Beta) | Python, Web |
-| [**LRC Patient Attendance Certificate**](https://github.com/asa-gif/LRC-Patient-Attendance-Certificate) | Creates, prints, downloads and emails attendance certificates for dialysis patients | Flask (Python), JavaScript |
+| [**LRC Patient Attendance Certificate**](https://github.com/asa-gif/LRC-Patient-Attendance-Certificate) | Creates, prints, downloads and emails attendance certificates for dialysis patients | HTML, CSS, JavaScript (Flask backend planned) |
 | [**My Task Planner**](https://github.com/asa-gif/my-task-planner) | Personal task planning app | TypeScript |
 
 ## Skills
